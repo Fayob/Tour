@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "Fabim",
+        "DB_PASSWORD": "fabim123",
+        "DB_NAME": "Tour-FullStack",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
